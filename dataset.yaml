@@ -1,0 +1,12 @@
+# datasets/pets/dataset.yaml
+
+# Train and validation directories
+path: ../datasets/pets # dataset root directory
+train: images/train  # train images (relative to 'path')
+val: images/val  # validation images (relative to 'path')
+
+# Number of classes
+nc: 2  # number of classes
+
+# Class names
+names: ['cat', 'dog']  # class names
