@@ -163,3 +163,4 @@ cython_debug/
 yolov8_env/
 datasets/
 runs/
+annotations.tar.gz
