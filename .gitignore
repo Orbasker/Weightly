@@ -164,3 +164,8 @@ yolov8_env/
 datasets/
 runs/
 annotations.tar.gz
+
+wood_images
+yolov8_dataset
+.idea
+

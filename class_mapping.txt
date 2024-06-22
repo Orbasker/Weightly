@@ -1,0 +1,578 @@
+0 Abura
+1 Afata
+2 Afrormosia
+3 Afzelia
+4 Afzelia xylay
+5 Ailanthus
+6 Albizia, West African
+7 Alder, Andean
+8 Alder, European
+9 Alder, grey
+10 Alder, Nepalese
+11 Alder, red
+12 Algarrobo Blanco
+13 Aliso del cerro
+14 Amboyna
+15 Amendoim
+16 Amoora
+17 Andiroba
+18 Angelim vermelho
+19 Anigre
+20 Anjan
+21 Apple
+22 Apple, broad-leaved
+23 Apple, rough-barked
+24 Apple, smooth-barked
+25 Apricot
+26 Araracanga
+27 Ash, Black
+28 Ash, Blue
+29 Ash, European
+30 Ash, Green
+31 Ash, Mountain
+32 Ash, Olive
+33 Ash, Oregon
+34 Ash, pink
+35 Ash, Pumpkin
+36 Ash, red
+37 Ash, Swamp
+38 Ash, Tamo
+39 Ash, White
+40 Aspen, Bigtooth
+41 Aspen, European
+42 Aspen, Quaking
+43 Avodire
+44 Balau
+45 Balsa
+46 Balsa, Siam
+47 Bamboo
+48 Banksia pod
+49 Basswood
+50 Batai
+51 Beech, American
+52 Beech, European
+53 Beefwood
+54 Bekak
+55 Beli
+56 Bendee
+57 Birch, Alaska paper
+58 Birch, alder-leaf
+59 Birch, Baltic
+60 Birch, downy
+61 Birch, gray
+62 Birch, Masur
+63 Birch, paper
+64 Birch, river
+65 Birch, silver
+66 Birch, sweet
+67 Birch, yellow
+68 Blackwood, African
+69 Blackwood, Australian
+70 Blackwood, Burmese
+71 Blackwood, Malaysian
+72 Bloodwood
+73 Bloodwood, red (Australian)
+74 Bocote
+75 Bois de rose
+76 Boonaree
+77 Bosse
+78 Box elder
+79 Box, gray
+80 Box, yellow
+81 Boxwood
+82 Boxwood, castelo
+83 Brazilwood
+84 Breadnut
+85 Briar
+86 Brigalow
+87 Brownheart
+88 Bubinga
+89 Buckeye, Ohio
+90 Buckeye, yellow
+91 Buckthorn
+92 Bulletwood
+93 Buloke, Australian
+94 Butternut
+95 Camelthorn
+96 Camphor
+97 Canarywood
+98 Candlenut
+99 Cashew
+100 Catalpa
+101 Cedar of Lebanon
+102 Cedar, Alaskan yellow
+103 Cedar, Atlantic white
+104 Cedar, Atlas
+105 Cedar, Australian red
+106 Cedar, Cyprus
+107 Cedar, Eastern red
+108 Cedar, incense
+109 Cedar, northern white
+110 Cedar, Port Orford
+111 Cedar, southern red
+112 Cedar, Spanish
+113 Cedar, western red
+114 Cerejeira
+115 Chakte viga
+116 Chamise
+117 Chanfuta
+118 Chechen
+119 Cheesewood
+120 Cherry, black
+121 Cherry, sweet
+122 Chestnut, American
+123 Chestnut, horse
+124 Chestnut, Sweet
+125 Chestnut, Wormy
+126 Chichipate
+127 Chinaberry
+128 Chinkapin, Giant
+129 Cocobolo
+130 Cocuswood
+131 Coffeetree
+132 Cooba
+133 Cooba, river
+134 Coolibah
+135 Coracao de negro
+136 Cottonwood, black
+137 Cottonwood, Eastern
+138 Crabwood, African
+139 Creekline miniritchie
+140 Cucumbertree
+141 Cumaru
+142 Curracabah
+143 Curupay
+144 Cypress, Australian
+145 Cypress, bald
+146 Cypress, Gowen
+147 Cypress, Leyland
+148 Cypress, Mediterranean
+149 Cypress, Mexican
+150 Cypress, Monterey
+151 Dahoma
+152 Dalmata
+153 Deglupta
+154 Dogwood
+155 Dorrigo waratah
+156 Ebiara
+157 Ebony, black and white
+158 Ebony, Brown
+159 Ebony, Ceylon
+160 Ebony, Gaboon
+161 Ebony, Macassar
+162 Ebony, mun
+163 Ebony, Texas
+164 Ekki
+165 Elm, American
+166 Elm, Carpathian (burl)
+167 Elm, cedar
+168 Elm, dutch
+169 Elm, English
+170 Elm, red
+171 Elm, rock
+172 Elm, winged
+173 Elm, wych
+174 Endra endra
+175 Espave
+176 Etimoe
+177 Fir, balsam
+178 Fir, bristlecone
+179 Fir, California red
+180 Fir, Douglas
+181 Fir, European silver
+182 Fir, Fraser
+183 Fir, grand
+184 Fir, Greek
+185 Fir, nikko
+186 Fir, noble
+187 Fir, Nordmann
+188 Fir, Pacific silver
+189 Fir, sacred
+190 Fir, Spanish
+191 Fir, subalpine
+192 Fir, white
+193 Freijo
+194 Garapa
+195 Gidgee
+196 Gidgee, pink
+197 Ginkgo
+198 Goncalo alves
+199 Greenheart
+200 Greywood, Indian silver
+201 Guanacaste
+202 Gum, blue
+203 Gum, lemon-scented
+204 Gum, river red
+205 Gum, rose
+206 Gum, spotted
+207 Gum, yellow
+208 Hackberry
+209 Hawthorn, oneseed
+210 Hawthorn, pear
+211 Hazelnut
+212 Hemlock, Eastern
+213 Hemlock, mountain
+214 Hemlock, western
+215 Hickory, bitternut
+216 Hickory, mockernut
+217 Hickory, nutmeg
+218 Hickory, pignut
+219 Hickory, shagbark
+220 Hickory, shellbark
+221 Hickory, water
+222 Holly, American
+223 Holly, Cape
+224 Hophornbeam
+225 Hornbeam, American
+226 Hornbeam, European
+227 Hububalli
+228 Idigbo
+229 Imbuia
+230 Ipe
+231 Iroko
+232 Ironwood, black
+233 Ironwood, desert
+234 Ironwood, Lebombo
+235 Itin
+236 Izombe
+237 Jarrah
+238 Jelutong
+239 Jicarillo
+240 Jucaro
+241 Juniper, African
+242 Juniper, alligator
+243 Juniper, western
+244 Karri
+245 Katalox
+246 Kauri, East Indian
+247 Kauri, Fijian
+248 Kauri, New Zealand
+249 Kauri, Queensland
+250 Kauri, swamp
+251 Kempas
+252 Keruing
+253 Keyaki
+254 Kingwood
+255 Koa
+256 Koa, Formosan
+257 Koai'a
+258 Kospio
+259 Kosso
+260 Koto
+261 Laburnum
+262 Lacewood
+263 Lancewood
+264 Lancewood, brown
+265 Lancewood, Shirley's
+266 Larch, European
+267 Larch, Japanese
+268 Larch, Western
+269 Lati
+270 Lauan
+271 Laurel blanco
+272 Laurel, Indian
+273 Leadwood
+274 Lebbeck
+275 Lemonwood
+276 Leopardwood
+277 Lightwood
+278 Lignum vitae
+279 Lignum vitae, Argentine
+280 Lilac
+281 Limba
+282 Lime, European
+283 Locust, black
+284 Locust, honey
+285 Louro preto
+286 Lyptus
+287 Macacauba
+288 Macadamia nut
+289 Machiche
+290 Madrone
+291 Magnolia, southern
+292 Mahoe, Blue
+293 Mahogany, African
+294 Mahogany, Cuban
+295 Mahogany, dry zone
+296 Mahogany, Honduran
+297 Mahogany, mountain
+298 Mahogany, Philippine
+299 Mahogany, santos
+300 Mahogany, swamp
+301 Makore
+302 Mallee, brown
+303 Mallee, red
+304 Mangium
+305 Mango
+306 Mansonia
+307 Manzanita
+308 Maple, ambrosia
+309 Maple, bigleaf
+310 Maple, birdseye
+311 Maple, black
+312 Maple, curly
+313 Maple, field
+314 Maple, Florida
+315 Maple, hard
+316 Maple, mountain
+317 Maple, Norway
+318 Maple, Pacific
+319 Maple, Queensland
+320 Maple, quilted
+321 Maple, red
+322 Maple, silver
+323 Maple, soft
+324 Maple, spalted
+325 Maple, striped
+326 Maple, sycamore
+327 Marblewood
+328 Meranti, dark red
+329 Meranti, light red
+330 Meranti, white
+331 Meranti, yellow
+332 Merbau
+333 Mesquite, African
+334 Mesquite, black
+335 Mesquite, honey
+336 Messmate
+337 Milkwood, hard
+338 Mimosa
+339 Moabi
+340 Monkey puzzle
+341 Monkeypod
+342 Monkeythorn
+343 Mopane
+344 Mora
+345 Mora, Guatemalan
+346 Movingui
+347 Mulberry
+348 Mulga
+349 Muninga
+350 Mutenye
+351 Myall
+352 Myrtle
+353 Myrtle, Tasmanian
+354 Nandubay
+355 Nargusta
+356 Narra
+357 Nyatoh
+358 Oak, black
+359 Oak, bog
+360 Oak, brown
+361 Oak, bur
+362 Oak, California black
+363 Oak, cherrybark
+364 Oak, chestnut
+365 Oak, English
+366 Oak, hairy
+367 Oak, holm
+368 Oak, Japanese
+369 Oak, karri
+370 Oak, laurel
+371 Oak, live
+372 Oak, Oregon white
+373 Oak, overcup
+374 Oak, pin
+375 Oak, post
+376 Oak, red
+377 Oak, scarlet
+378 Oak, sessile
+379 Oak, Shumard
+380 Oak, southern red
+381 Oak, swamp chestnut
+382 Oak, swamp white
+383 Oak, Turkey
+384 Oak, water
+385 Oak, white
+386 Oak, willow
+387 Obeche
+388 Ohia
+389 Okoume
+390 Olive
+391 Olive, East African
+392 Olive, Elgon
+393 Olive, Queensland
+394 Olive, Russian
+395 Opepe
+396 Osage orange
+397 Osage orange, Argentine
+398 Ovangkol
+399 Padauk, African
+400 Padauk, Andaman
+401 Padauk, Burma
+402 Paldao
+403 Palm, black
+404 Palm, red
+405 Panga panga
+406 Partridgewood
+407 Pau ferro
+408 Pau rosa
+409 Pau rosa, Brazilian
+410 Pau santo
+411 Paulownia
+412 Pear
+413 Pecan
+414 Pericopsis
+415 Peroba rosa
+416 Persimmon
+417 Pheasantwood
+418 Pine, Austrian
+419 Pine, Caribbean
+420 Pine, Eastern white
+421 Pine, hoop
+422 Pine, huon
+423 Pine, jack
+424 Pine, Jeffrey
+425 Pine, Khasi
+426 Pine, limber
+427 Pine, loblolly
+428 Pine, lodgepole
+429 Pine, longleaf
+430 Pine, maritime
+431 Pine, Norfolk Island
+432 Pine, ocote
+433 Pine, Parana
+434 Pine, patula
+435 Pine, pinyon
+436 Pine, pitch
+437 Pine, pond
+438 Pine, ponderosa
+439 Pine, radiata
+440 Pine, red
+441 Pine, sand
+442 Pine, Scots
+443 Pine, shortleaf
+444 Pine, slash
+445 Pine, spruce
+446 Pine, sugar
+447 Pine, Sumatran
+448 Pine, table mountain
+449 Pine, Virginia
+450 Pine, Western white
+451 Pink ivory
+452 Pistachio
+453 Plane, London
+454 Plum
+455 Poplar, balsam
+456 Poplar, black
+457 Poplar, rainbow
+458 Poplar, white
+459 Poplar, yellow
+460 Preciosa
+461 Primavera
+462 Prosopis juliflora
+463 Pulai, Indian
+464 Purpleheart
+465 Pyinma
+466 Quebracho
+467 Queenwood
+468 Quina
+469 Ramin
+470 Raspberry jam
+471 Redbud, eastern
+472 Redheart
+473 Redwood, coast
+474 Redwood, dawn
+475 Rengas
+476 Rosewood, Amazon
+477 Rosewood, Brazilian
+478 Rosewood, Burmese
+479 Rosewood, East Indian
+480 Rosewood, Honduran
+481 Rosewood, Madagascar
+482 Rosewood, Siamese
+483 Rosewood, tiete
+484 Rosewood, Yucatan
+485 Rowan
+486 Rubberwood
+487 Salwood, brown
+488 Sandalwood, musk
+489 Sande
+490 Sapele
+491 Sapodilla
+492 Sassafras
+493 Sassafras, blackheart
+494 Satinwood, East Indian
+495 Satinwood, West Indian
+496 Sequoia, giant
+497 Serviceberry
+498 Sheoak, black
+499 Sheoak, drooping
+500 Sheoak, rock
+501 Sheoak, rose
+502 Sheoak, western
+503 Shittim
+504 Silky oak, Northern
+505 Silky oak, Southern
+506 Silverballi, yellow
+507 Siris, black
+508 Sissoo
+509 Snakewood
+510 Sneezewood
+511 Sourwood
+512 Spruce, black
+513 Spruce, Engelmann
+514 Spruce, Norway
+515 Spruce, red
+516 Spruce, Sitka
+517 Spruce, white
+518 Sucupira
+519 Sugi
+520 Sumac, staghorn
+521 Sweetbay
+522 Sweetgum
+523 Sycamore
+524 Tagua nut
+525 Tamarack
+526 Tamarind
+527 Tambootie
+528 Tanoak
+529 Tatabu
+530 Tatajuba
+531 Teak
+532 Teak, Rhodesian
+533 Tejocote
+534 Thuya
+535 Tigre caspi
+536 Timborana
+537 Tineo
+538 Toi
+539 Tornillo
+540 Tulipwood, Brazilian
+541 Tupelo, black
+542 Tupelo, water
+543 Turpentine
+544 Tzalam
+545 Utile
+546 Verawood
+547 Waddywood
+548 Walnut, African
+549 Walnut, Bastogne
+550 Walnut, black
+551 Walnut, claro
+552 Walnut, English
+553 Walnut, New Guinea
+554 Walnut, Peruvian
+555 Walnut, Queensland
+556 Wamara
+557 Wattle, Black
+558 Wattle, Cootamundra
+559 Wattle, earpod
+560 Wattle, golden
+561 Wattle, green
+562 Wattle, ironwood
+563 Wattle, silver
+564 Wattle, spear
+565 Wenge
+566 Willow, black
+567 Willow, crack
+568 Willow, diamond
+569 Willow, white
+570 Yarran
+571 Yellowheart
+572 Yew, European
+573 Yew, Pacific
+574 Zebrawood
+575 Zelkova, Taiwain
+576 Ziricote
+577 Zitan
